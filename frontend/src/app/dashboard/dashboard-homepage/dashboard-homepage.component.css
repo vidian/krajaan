@@ -1,0 +1,12 @@
+.container{
+    margin: 50px 100px 50px 100px;
+}
+
+.krajaan-welcoming-logo{
+    display: flex;
+    justify-content: center;
+}
+
+.welcome-title{
+    text-align: center;
+}
